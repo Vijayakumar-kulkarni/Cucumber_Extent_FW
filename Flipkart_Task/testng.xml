@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Adding Product to Cart demo">
+	<test name="Add Product to Cart">
+		<classes>
+			<class name="runner.FlipKartRunner" />
+		</classes>
+	</test>
+</suite>    
+        
+     

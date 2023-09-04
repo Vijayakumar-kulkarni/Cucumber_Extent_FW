@@ -1,0 +1,6 @@
+pages\ProductsPage.class
+stepdefinitions\AddProductStepDefs.class
+pages\ProductDetailsPage.class
+runner\FlipKartRunner.class
+pages\CartPage.class
+pages\LandingPage.class

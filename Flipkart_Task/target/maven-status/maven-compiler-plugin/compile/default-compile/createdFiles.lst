@@ -1,0 +1,6 @@
+utilities\ScreenshotManager.class
+utilities\ConfigFileReader.class
+utilities\DriverManager.class
+context\ScenarioContext.class
+context\TestContext.class
+utilities\PageObjectManager.class
